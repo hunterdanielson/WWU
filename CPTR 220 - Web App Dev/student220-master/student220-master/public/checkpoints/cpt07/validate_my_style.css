@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+}
+
+.graphic,
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+p:hover {
+    background: gray;
+}
+
+li:hover {
+    background: gray;
+    list-style-type: circle;
+}
+
+
+
+a:link {
+    color:green;
+}
+
+a:visited {
+    color:red;
+}

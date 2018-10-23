@@ -1,0 +1,45 @@
+
+h2 {
+    color:blue;
+    font-size: 40px;
+}
+
+h3 {
+    background-color: cyan;
+}
+
+p {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: lowercase;
+    text-indent: 30px;
+    line-height: 1.0;
+
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style-type: lower-greek;
+}
+
+th {
+    background-color: blue;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+/*this id tag is for the yellow box*/
+#yellow {
+    background-color: yellow;
+}
+
+/*this id tag is for the purple box*/
+#purple {
+    background-color: purple;
+}
+
+table {
+    border: 1px solid black;
+}

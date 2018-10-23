@@ -1,0 +1,21 @@
+h1 {
+    color: grey;
+}
+
+div {
+    font-style: italic;
+    text-align: center;
+}
+
+.webapp {
+    color: navy;
+}
+
+span {
+    color: forestgreen;
+    background-color: orangered;
+}
+
+#myname {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

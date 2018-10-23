@@ -1,7 +1,6 @@
 #python code for cryptopals 2
 
 def hex_xor(hexdata1, hexdata2):
-    """Takes two equal-length hex encoded buffers and produces their XOR combination."""
     dec1 = int(hexdata1, 16)
     dec2 = int(hexdata2, 16)
     xor = dec1 ^ dec2

@@ -1,0 +1,34 @@
+
+.col {
+    float: left;
+    width: 32%;
+}
+
+h2 {
+    border: solid turquoise;
+}
+
+div {
+    border: solid black;
+}
+
+footer {
+    position: -ms-page;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 50px;
+    clear: both;
+    border: solid blue;
+}
+
+aside {
+    background-color: aqua;
+}
+
+img {
+    height: 100px;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}

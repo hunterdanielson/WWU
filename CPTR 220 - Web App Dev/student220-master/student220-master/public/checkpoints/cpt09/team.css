@@ -1,0 +1,55 @@
+aside {
+    border-style: dashed;
+}
+
+article {
+    border-bottom-style: groove;
+    margin-bottom: 50px;
+}
+
+h2 {
+    border-left-style: dotted;
+}
+
+footer {
+    border-top-style: solid;
+}
+
+ul {
+    border-top: 5px solid blue; 
+    padding-top: 10px;
+}
+
+#hellotherec {
+    border: 5px solid black;
+    padding: 1em;
+}
+
+#hellothereb {
+    border: 5px solid black;
+    margin: 20em;
+
+}
+
+#hellotherea {
+    border: 5px solid black;
+    padding: 7em;
+}
+
+p {
+    background-color: blue;
+    border: 5px solid red;
+    color: white;
+    margin: 1em;
+    padding: 4em;
+    text-align: center;
+}
+
+#sbord {
+    background-color: blue;
+    border: 5px solid red;
+    color: white;
+    margin: 1em;
+    padding: 0em;
+    text-align: center;
+}
